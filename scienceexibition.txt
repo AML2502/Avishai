@@ -1,0 +1,15 @@
+<html>
+<head> Science i s fun </head>
+<title>Science Exibition </title>
+<body bgcolour="cyan" textcolor="orange">
+<h1> welcome to Science Exibition 2020 </h1>
+<p1 align="left"> <br>this pharagraph i s about solids<br>solid are i n a l attice arangement <br>
+if heat i s applies the melt </br>
+<p2><center><br> this pharagraph i s about l iquids<br> that are i n a l ooser arangement than
+solid and then can move freely <br> i f heat i s applied i t becomes gas<br> i f cold i s applied i t
+becomes solid </br> </center></p2>
+<p3 align="right"><br> this paragraph i s about gasses<br> they are very l oose <br> i f cold i s
+applied i t becomes l iquid</br></p3>
+</body>
+</html>
+
